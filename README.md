@@ -62,10 +62,8 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia para mejorar est
 5.  Hacer Push a la Rama (`git push origin feature/nueva-caracteristica`).
 6.  Abrir un Pull Request.
 
-También puedes simplemente abrir un "issue" con la etiqueta "enhancement" (mejora).
 
 ## Autor
 
 * **NicoAAA**
     * GitHub: [@NicoAAA](https://github.com/NicoAAA)
-    * [**Opcional: Añade otros enlaces como LinkedIn, Twitter, Portfolio personal, etc.**]
