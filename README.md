@@ -5,9 +5,17 @@
 ## Vista Previa
 
 Puedes ver la landing page en acción aquí "https://v0-new-project-tzkuxbuyihu.vercel.app/#contacto)"
-![image](https://github.com/user-attachments/assets/bc4753df-7ab2-4a6b-ae2c-19b75043bb3a)
-![image](https://github.com/user-attachments/assets/dfd3da15-3dfc-4d88-ab88-f52205733536)
-![image](https://github.com/user-attachments/assets/95028d87-18aa-47d2-aae6-fdc35d5b4a3c)
+
+
+   ### 01. Encabezado con barra de navegación y Sección principal con imagen y texto (grid):
+   ![image](https://github.com/user-attachments/assets/bc4753df-7ab2-4a6b-ae2c-19b75043bb3a)
+
+   ### 02. Tres tarjetas con información:
+   ![image](https://github.com/user-attachments/assets/dfd3da15-3dfc-4d88-ab88-f52205733536)
+
+   ### 03. Formulario de contacto y footer simple:
+   ![image](https://github.com/user-attachments/assets/95028d87-18aa-47d2-aae6-fdc35d5b4a3c)
+
 
 
 ## Descripción
